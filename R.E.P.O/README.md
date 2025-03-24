@@ -33,7 +33,7 @@ To ensure everything runs smoothly, make sure the following dependencies are ins
 
 ## Installation
 
-1. Download the modpack from the [official repository](https://github.com/TommyYxofPloger/We_playin).
+1. Download the modpack from the [official repository](https://github.com/TommyYxofPloger/We_playin) or from [ThunderStore link](https://thunderstore.io/c/repo/p/VulpesTech/WePlayin_Tommy/).
 2. Ensure you have all the dependencies listed in `manifest.json` installed.
 3. Extract the files to your game’s mods folder.
 4. Enjoy exploring new content and possibilities!
