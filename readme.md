@@ -41,11 +41,10 @@ Here are Our current Modpacks:
 
 
 
-## 🔧 Requirements
+## Requirements
 - [BepInEx](https://github.com/BepInEx/BepInEx) framework.
-- A game that supports mods (check setup instructions).
 
-## 🌍 Contributions
+## Contributions
 We would love to hear your suggestions and improvements! To contribute:
 1. Fork this repository.
 2. Create a branch for your modification:
@@ -54,10 +53,14 @@ We would love to hear your suggestions and improvements! To contribute:
    ```
 3. Submit a pull request explaining your changes.
 
-## 📫 Contact
-- **Author**: Tommy YxofPloger
+## Contact
+- **Author**: Tommy Yxof Ploger
 - **Website**: [GitHub Page](https://github.com/TommyYxofPloger/We_playin)
 
 ---
 
-🎉 Have fun with **WePlayin** and transform your gaming experience! Feedback is always welcome. 😊
+Have fun with **WePlayin** and transform your gaming experience! Feedback is always welcome.
+<a href="https://store.steampowered.com/app/865610/Tails_Noir/" target="_blank">
+    <img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/865610/eb011a44ad03bea813bb90e1b6890859ff1cad6b.jpg" alt="easteregg">
+        <p><em>                         Remember to call your mom</em></p>
+</a>
