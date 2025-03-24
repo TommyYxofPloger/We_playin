@@ -23,16 +23,17 @@
 4. Copy the mods into your BepInEx `Plugins` folder.
 5. Launch the game and enjoy! 
 
-##  Modpacks available:
+## Modpacks available:
 Here are Our current Modpacks:
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <div>
+
+<div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px;">
+  <div style="text-align: center;">
     <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1966720/header.jpg?t=1723894859" alt="Lethal Company Logo" width="300">
-    <p style="text-align: center;"><em>Lethal Company</em></p>
+    <p><em>Lethal Company</em></p>
   </div>
-  <div>
+  <div style="text-align: center;">
     <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3241660/header.jpg?t=1740578354" alt="R.E.P.O. logo" width="300">
-    <p style="text-align: center;"><em>R.E.P.O.</em></p>
+    <p><em>R.E.P.O.</em></p>
   </div>
 </div>
 
