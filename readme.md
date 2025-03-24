@@ -10,19 +10,6 @@
 -  **Easy Setup**: Compatible with frameworks like [BepInEx](https://github.com/BepInEx/BepInEx).
 -  **Unique Experience**: Fresh narratives, improved mechanics, and awesome new armor.
 
-##  Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/TommyYxofPloger/We_playin.git
-   ```
-2. Navigate to the project folder:
-   ```bash
-   cd We_playin
-   ```
-3. Ensure you have [BepInEx](https://github.com/BepInEx/BepInEx) set up.
-4. Copy the mods into your BepInEx `Plugins` folder.
-5. Launch the game and enjoy! 
-
 ## Modpacks available:
 Here are Our current Modpacks:
 
