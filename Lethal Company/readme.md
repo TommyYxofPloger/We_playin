@@ -1,6 +1,6 @@
 # WePlayin, Tommy!
 
-**Version:** 0.1.2  
+**Version:** 0.1.1  
 **Repository:** [WePlayin, Tommy!](https://github.com/TommyYxofPloger/We_playin)
 
 ---
@@ -17,22 +17,9 @@ This modpack includes a variety of enhancements, cosmetics, and items to expand 
 
 ---
 
-## Dependencies
-
-To ensure everything runs smoothly, make sure the following dependencies are installed:
-
-- **AlexKuz:** Food_Valubles_Pack - 1.0.4
-- **AriIcedT:** ArisCosmetics, ArisJunkDrawer, ValuableCans - latest versions
-- **BepInEx:** BepInExPack - 5.4.2100
-- **BULLETBOT:** MoreUpgrades - 1.3.6
-- **ChaosTricks:** ChaosTricks_REPO_TwitchIntegration - 1.3.0
-- *(and many more! Check the full `manifest.json` file for details.)*
-
----
-
 ## Installation
 
-1. Download the modpack from the [official repository](https://github.com/TommyYxofPloger/We_playin).
+1. Download the modpack from the [official repository](https://github.com/TommyYxofPloger/We_playin) or from [ThunderStore page](https://thunderstore.io/c/lethal-company/p/VulpesTech/WePlayin_Tommy/) .
 2. Ensure you have all the dependencies listed in `manifest.json` installed.
 3. Extract the files to your game’s mods folder.
 4. Enjoy exploring new content and possibilities!
