@@ -60,6 +60,8 @@ We would love to hear your suggestions and improvements! To contribute:
 ---
 
 Have fun with **WePlayin** and transform your gaming experience! Feedback is always welcome.
+\n
+/n
 <a href="https://store.steampowered.com/app/865610/Tails_Noir/" target="_blank">
     <img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/865610/eb011a44ad03bea813bb90e1b6890859ff1cad6b.jpg" alt="easteregg">
         <p><em>                         Remember to call your mom</em></p>
