@@ -1,5 +1,5 @@
 # WePlayin - Tommy's Curated Modpack Collection
-<img src="https://i.imgur.com/gU2N9y9.png" alt="WePlayin" width="300" height="300">)
+<img src="https://i.imgur.com/gU2N9y9.png" alt="WePlayin" width="300" height="300">
 
 ##  About
 **WePlayin** is a meticulously curated modpack made by Tommy Yxof Plöger, designed to deliver a unique and fun gaming experience. With a wide and diverse selection of mods, players can explore, customize, and embark on thrilling adventures for hours! This repository contains everything you need to start your journey in a world full of possibilities. 🌟
